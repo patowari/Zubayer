@@ -208,25 +208,43 @@ const Skills = () => {
               <HiBadgeCheck />
               <h4>Hindi</h4>
             </article>
-            <div className="skill__ui-design">
-          <h3>Industry-Specific Tools & Knowledge</h3>
-          <div className="skill_content">
-            <article className="skill__details">
-              <HiBadgeCheck />
-              <h4>Yardi Property Management</h4>
-            </article>
-            <article className="skill__details">
-              <HiBadgeCheck />
-              <h4>Healthcare AI Solutions</h4>
-            </article>
-            <article className="skill__details">
-              <HiBadgeCheck />
-              <h4>Web Crawling & Data Scraping</h4>
-            </article>
+            
           </div>
         </div>
+          <div className="skill__ui-design">
+            <h3>Industry-Specific Tools & Knowledge</h3>
+            <div className="skill_content">
+              <article className="skill__details">
+                <HiBadgeCheck />
+                <h4>Yardi Property Management</h4>
+              </article>
+              <article className="skill__details">
+                <HiBadgeCheck />
+                <h4>Healthcare AI Solutions</h4>
+              </article>
+              <article className="skill__details">
+                <HiBadgeCheck />
+                <h4>Web Crawling & Data Scraping</h4>
+              </article>
           </div>
-        </div>
+          </div>
+          <div className="skill__ui-design">
+            <h3>Leadership & Event Management</h3>
+            <div className="skill_content">
+              <article className="skill__details">
+                <HiBadgeCheck />
+                <h4>Team Leadership (President of TGHS IT Club)</h4>
+              </article>
+              <article className="skill__details">
+                <HiBadgeCheck />
+                <h4>Event Organization (Hackathons & IT Events)</h4>
+              </article>
+              <article className="skill__details">
+                <HiBadgeCheck />
+                <h4>Community Building & Collaboration</h4>
+              </article>
+          </div>
+          </div>
       </div>
     </section>
   );
