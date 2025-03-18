@@ -12,7 +12,7 @@ const Header = () => {
       <div className="header__container">
         <h5>Hello I'm</h5>
         <h1 style={{ fontWeight: "600" }}>Md Zubayer Hossain Patowari</h1>
-        <h5 className="text-light">Full Stack Developer</h5>
+        <h5 className="text-light">AI ENGINEER</h5>
         <CTA />
         <HeaderSocials />
 
