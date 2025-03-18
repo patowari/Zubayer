@@ -9,15 +9,60 @@ const Skills = () => {
       <h2>My Proficiency</h2>
       <div className="container skills__container">
         <div className="skill__frontend">
-          <h3>Frontend Development</h3>
+          <h3>Artificial Intelligence & Machine Learning</h3>
           <div className="skill_content">
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>HTML</h4>
+              <h4>Artificial Intelligence (AI)</h4>
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>CSS</h4>
+              <h4>Generative AI</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Natural Language Processing (NLP)</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Large Language Models (LLM)</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Computer Vision</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Chatbot Development</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Chatbot Responses</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Chatbot Testing</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Modeling Languages</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Jupyter</h4>
+            </article>
+          </div>
+        </div>
+        <div className="skill__backend">
+          <h3>Programming Languages & Frameworks</h3>
+          <div className="skill_content">
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Python (Programming Language)</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>C++</h4>
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
@@ -25,11 +70,7 @@ const Skills = () => {
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>Bootstrap</h4>
-            </article>
-            <article className="skill__details">
-              <HiBadgeCheck />
-              <h4>Tailwind CSS</h4>
+              <h4>Node.js</h4>
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
@@ -37,36 +78,11 @@ const Skills = () => {
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>Redux Toolkit</h4>
+              <h4>React Native</h4>
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>Next.js</h4>
-            </article>
-          </div>
-        </div>
-        <div className="skill__backend">
-          <h3>Backend Development</h3>
-          <div className="skill_content">
-            <article className="skill__details">
-              <HiBadgeCheck />
-              <h4>Node.js</h4>
-            </article>
-            <article className="skill__details">
-              <HiBadgeCheck />
-              <h4>Express.js</h4>
-            </article>
-            <article className="skill__details">
-              <HiBadgeCheck />
-              <h4>MongoDB</h4>
-            </article>
-            <article className="skill__details">
-              <HiBadgeCheck />
-              <h4>Django</h4>
-            </article>
-            <article className="skill__details">
-              <HiBadgeCheck />
-              <h4>Flask</h4>
+              <h4>FastAPI</h4>
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
@@ -74,87 +90,141 @@ const Skills = () => {
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>Keras</h4>
+              <h4>Flask</h4>
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>Python (LSTM Models)</h4>
-            </article>
-            <article className="skill__details">
-              <HiBadgeCheck />
-              <h4>NLTK</h4>
-            </article>
-            <article className="skill__details">
-              <HiBadgeCheck />
-              <h4>JSON Model Handling</h4>
+              <h4>Unity (Game Development)</h4>
             </article>
           </div>
         </div>
         <div className="skill__authentication">
-          <h3>Authentication</h3>
+          <h3>Full-Stack Development</h3>
           <div className="skill_content">
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>Firebase Authentication</h4>
+              <h4>Full-Stack Development</h4>
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>JWT Authentication</h4>
+              <h4>Open-Source Development</h4>
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>OAuth 2.0</h4>
+              <h4>Digital Technology</h4>
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>Passport.js</h4>
+              <h4>Office Automation Software</h4>
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>Django Authentication System</h4>
-            </article>
-            <article className="skill__details">
-              <HiBadgeCheck />
-              <h4>Flask-Login</h4>
-            </article>
-            <article className="skill__details">
-              <HiBadgeCheck />
-              <h4>Session-based Authentication</h4>
-            </article>
-            <article className="skill__details">
-              <HiBadgeCheck />
-              <h4>Multi-factor Authentication (MFA)</h4>
+              <h4>Twitter API</h4>
             </article>
           </div>
         </div>
-
         <div className="skill__ui-design">
-          <h3>UI Design Libraries</h3>
+          <h3>Business & Operations</h3>
           <div className="skill_content">
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>AOS</h4>
+              <h4>Business Model Development</h4>
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>Ant Design</h4>
+              <h4>Business Networking</h4>
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>Chakra UI</h4>
+              <h4>Strategic Partnerships</h4>
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>Material UI</h4>
+              <h4>Operations Process Improvement</h4>
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>Bootstrap</h4>
+              <h4>Continuous Improvement Culture</h4>
             </article>
             <article className="skill__details">
               <HiBadgeCheck />
-              <h4>Tailwind CSS</h4>
+              <h4>IT Consulting</h4>
             </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Client Success</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Technology Solution Delivery</h4>
+            </article>
+          </div>
+        </div>
+        <div className="skill__ui-design">
+          <h3>Web & Application Development</h3>
+          <div className="skill_content">
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>E-Commerce</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Digital Accessibility</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Language Development</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Multilingual Communication</h4>
+            </article>
+          </div>
+        </div>
+        <div className="skill__ui-design">
+          <h3>Technical & Miscellaneous Skills</h3>
+          <div className="skill_content">
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Computer Repair</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Technical Skillset</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Editing</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Secondary Education</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>English</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Hindi</h4>
+            </article>
+            <div className="skill__ui-design">
+          <h3>Industry-Specific Tools & Knowledge</h3>
+          <div className="skill_content">
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Yardi Property Management</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Healthcare AI Solutions</h4>
+            </article>
+            <article className="skill__details">
+              <HiBadgeCheck />
+              <h4>Web Crawling & Data Scraping</h4>
+            </article>
+          </div>
+        </div>
           </div>
         </div>
       </div>
