@@ -201,7 +201,7 @@ const Projects = () => {
           </div>
           <div className="flex justify-start gap-2 mt-4 ">
             <a
-              href="https://github.com/mdzubayerhossain/logic-with-python/tree/main/Car-Number-Plates-Detection-zubayer"
+              href="https://github.com/patowari/logic-with-python/tree/main/Car-Number-Plates-Detection-zubayer"
               className="btn btn-primary !py-1 !px-2 text-sm leading-7"
               target="_blank"
             >

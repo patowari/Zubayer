@@ -41,14 +41,14 @@ const Footer = () => {
           <FiFacebook />
         </a>
         <a
-          href="https://www.linkedin.com/in/mdzubayerhossainpatowari"
+          href="https://www.linkedin.com/in/zpatowari"
           target="_blank"
           rel="noopener noreferrer"
         >
           <BsLinkedin />
         </a>
         <a
-          href="https://github.com/mdzubayerhossain"
+          href="https://github.com/patowari"
           target="_blank"
           rel="noopener noreferrer"
         >
